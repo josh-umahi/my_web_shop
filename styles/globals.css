@@ -10,6 +10,9 @@ body,
 ::-webkit-scrollbar {
   width: 0px;
 }
+body {
+  background-color: #f4f6fa;
+}
 
 a {
   color: inherit;
@@ -558,7 +561,7 @@ span.text-red {
 }
 .success-wrapper,
 .cancel-wrapper {
-  background-color: white;
+  background-color: #f4f6fa;
   min-height: 60vh;
 }
 .success,
